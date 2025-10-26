@@ -7,7 +7,7 @@ A next-generation decentralized app for **fractional real estate ownership**, bu
 ## 🌟 Core Highlights
 
 ### 🏘️ **Smart Property Marketplace**
-- Powerful filters by rooms, districts, and price range  
+- Powerful filters by rooms, districts, and price range. Real data parsef from lalafo.kg 
 - Fast server-side pagination (12 properties per page)  
 - All prices displayed in **ETH** for seamless blockchain transactions  
 
@@ -72,6 +72,12 @@ DEPLOYER_PRIVATE_KEY=your_wallet_private_key
 
 # packages/nextjs/.env.local
 GEMINI_API_KEY=your_gemini_api_key
+```
+#after connection and deploy yo can see:
+```bash
+✅ Адрес контракта: 0x95b61D61D105C3E2d29dd6b2aD033B68fdb04C77
+✅ Сеть: Ethereum Sepolia
+✅ Транзакция: 0x586df7da812c6f79eac6ac9488c953d430d7710c299f13eb42e581594fc31c37
 ```
 
 ### 🧩 Deploy Contracts
