@@ -7,7 +7,7 @@ A next-generation decentralized app for **fractional real estate ownership**, bu
 ## 🌟 Core Highlights
 
 ### 🏘️ **Smart Property Marketplace**
-- Powerful filters by rooms, districts, and price range. Real data parsef from lalafo.kg 
+- Powerful filters by rooms, districts, and price range. Real data parsef from **lalafo.kg**: https://lalafo.kg/
 - Fast server-side pagination (12 properties per page)  
 - All prices displayed in **ETH** for seamless blockchain transactions  
 
